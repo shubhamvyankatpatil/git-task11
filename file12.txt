@@ -1,1 +1,3 @@
 this is first code in git repositry
+12
+ok
